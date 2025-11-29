@@ -46,8 +46,6 @@ Build a face recognition system that:
 
 > After evaluation, **the best model is selected and saved**, then loaded by the GUI.
 
----
 
-## 🛠️ Machine Learning Workflow (Kaggle Notebook)
 
 
