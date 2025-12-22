@@ -40,7 +40,7 @@ Build a face recognition system that:
 
 | Task | Models |
 |------|--------|
-| Face embeddings + transfer learning | ✅ ResNet50 , ✅ InceptionV3 , ✅ MobileNetV2 |
+| Face embeddings + transfer learning | ✅ ResNet50 , ✅ vgg16 , ✅ MobileNetV2 |
 | Similarity metric | Cosine Similarity + Euclidean (L2 distance) |
 | Face detection (optional step if GUI uses webcam) | MTCNN or RetinaFace |
 
